@@ -58,5 +58,3 @@ wsl-kde6-nixos/
 ├── scripts/
 │   └── start-kde.sh
 └── README.md
-
-
