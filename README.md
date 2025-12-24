@@ -4,7 +4,6 @@
 ![KDE Plasma](https://img.shields.io/badge/KDE-Plasma%206-1d99f3?logo=kde)
 ![WSL2](https://img.shields.io/badge/WSL-2-blue?logo=windows)
 ![X11](https://img.shields.io/badge/X11-Enabled-green)
-![License](https://img.shields.io/github/license/vinberg88/wsl-kde6-nixos)
 
 ---
 
@@ -150,3 +149,6 @@ wsl-kde6-nixos/
 ├── scripts/
 │   └── start-kde.sh
 └── README.md
+
+![Stars](https://img.shields.io/github/stars/vinberg88/wsl-kde6-nixos?style=flat)
+
