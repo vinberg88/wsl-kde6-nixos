@@ -162,7 +162,7 @@ https://github.com/vinberg88
 https://github.com/vinberg88/nixos-mate-wsl
 
 - More deskops for WSL 
-https://github.com/vinberg88/opensuse
+- https://github.com/vinberg88/opensuse
 
 - 🔗 **LinkedIn**  
 https://www.linkedin.com/in/mattias-vinberg
