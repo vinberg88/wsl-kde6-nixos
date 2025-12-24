@@ -5,8 +5,9 @@
 
   wsl.enable = true;
   wsl.defaultUser = "nixos";
-
+  
   nix.settings.experimental-features = [ "nix-command" "flakes" ];
+  nix.settings.download-buffer-size = 468435456; # 558 MB
 
   services.dbus.enable = true;
 
@@ -48,6 +49,9 @@
   };
 
   security.sudo.wheelNeedsPassword = false;
+
+  home-manager.useUserPackages = true;
+  home-manager.useGlobalPkgs = true;
 
   home-manager.users.nixos = import ./home.nix;
 }
