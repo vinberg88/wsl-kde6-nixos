@@ -172,3 +172,13 @@ https://www.linkedin.com/in/mattias-vinberg
 https://x.com/MattiasVinberg
 
 ---
+
+How it all looks when installed. We even have sound!
+
+<img width="1920" height="1080" alt="NIXOS-KDE6" src="https://github.com/user-attachments/assets/e8b5db38-a225-4d98-99b5-4220f49571f3" />
+
+---
+
+Regards Mattias Vinberg - NIXOS - WSL - KDE 6 - MicroSOFT - WINDOWS 11 - LINUX - SWEDEN - 2025
+
+---
