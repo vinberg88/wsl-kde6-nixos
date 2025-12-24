@@ -6,21 +6,6 @@
 ![X11](https://img.shields.io/badge/X11-Enabled-green)
 ![Stars](https://img.shields.io/github/stars/vinberg88/wsl-kde6-nixos?style=flat)
 
-## 🔗 Social & Links
-
-- 🌍 **GitHub (Author)**  
-  https://github.com/vinberg88
-
-- 🧩 **Related Projects**
-  - MATE on NixOS WSL  
-    https://github.com/vinberg88/nixos-mate-wsl
-
-- 🔗 **LinkedIn**  
-  https://www.linkedin.com/in/mattias-vinberg
-
-- 🐦 **X / Twitter**  
-  https://x.com/MattiasVinberg
-
 ---
 
 You can find NixOS here For WSL HERE - https://github.com/nix-community/NixOS-WSL
@@ -165,3 +150,21 @@ wsl-kde6-nixos/
 ├── scripts/
 │   └── start-kde.sh
 └── README.md
+```
+
+## 🔗 Social & Links
+
+- 🌍 **GitHub (Author)**  
+https://github.com/vinberg88
+
+- 🧩 **Related Projects**
+- MATE on NixOS WSL  
+https://github.com/vinberg88/nixos-mate-wsl
+
+- 🔗 **LinkedIn**  
+https://www.linkedin.com/in/mattias-vinberg
+
+- 🐦 **X / Twitter**  
+https://x.com/MattiasVinberg
+
+---
