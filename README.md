@@ -139,6 +139,10 @@ https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
 
 ---
 
+![Stars](https://img.shields.io/github/stars/vinberg88/wsl-kde6-nixos?style=flat)
+
+---
+
 ## 📦 Repository Structure
 
 ```text
@@ -149,6 +153,3 @@ wsl-kde6-nixos/
 ├── scripts/
 │   └── start-kde.sh
 └── README.md
-
-![Stars](https://img.shields.io/github/stars/vinberg88/wsl-kde6-nixos?style=flat)
-
