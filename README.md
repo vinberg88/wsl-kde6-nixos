@@ -49,7 +49,9 @@ wsl-kde6-nixos/
 │   └── start-kde.sh
 └── README.md
 
-How to install...
+---
+
+## How to install...
 
 git clone https://github.com/vinberg88/wsl-kde6-nixos.git
 
@@ -59,6 +61,6 @@ sudo nixos-rebuild switch --flake .#nixos
 
 Or look here: 
 
-## Regards Mattias Vinberg
+Regards Mattias Vinberg
 
 
