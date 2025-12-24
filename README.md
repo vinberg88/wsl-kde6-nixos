@@ -4,6 +4,7 @@
 ![KDE Plasma](https://img.shields.io/badge/KDE-Plasma%206-1d99f3?logo=kde)
 ![WSL2](https://img.shields.io/badge/WSL-2-blue?logo=windows)
 ![X11](https://img.shields.io/badge/X11-Enabled-green)
+![Stars](https://img.shields.io/github/stars/vinberg88/wsl-kde6-nixos?style=flat)
 
 ---
 
@@ -136,10 +137,6 @@ for Linux (WSL) distributions, enabling installation, snapshots, version
 control, and seamless integration with Windows tools.
 
 https://apps.microsoft.com/detail/9msmjqd017x7?hl=en-US&gl=US
-
----
-
-![Stars](https://img.shields.io/github/stars/vinberg88/wsl-kde6-nixos?style=flat)
 
 ---
 
