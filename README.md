@@ -13,6 +13,20 @@ You can find NixOS here For WSL HERE - https://github.com/nix-community/NixOS-WS
 
 ---
 
+## 🔊 Audio Support (WSL) Bonus =)
+
+Audio works out of the box in this setup.
+
+Sound is routed from **NixOS inside WSL** to **Windows audio** using the standard WSL audio integration.  
+No additional PulseAudio or PipeWire configuration is required.
+
+**What works:**
+- System sounds
+- Application audio (Firefox, media players, etc.)
+- KDE notification sounds
+
+---
+
 <img width="3840" height="2160" alt="nixos-wallpaper-catppuccin-macchiato" src="https://github.com/user-attachments/assets/8dbc7343-4bd9-4f88-81fe-dbbe0046e7d4" />
 
 A clean, reproducible, and stable setup for running **KDE Plasma 6** on **NixOS inside WSL**, using **X410** as the X11 server on Windows.
