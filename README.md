@@ -89,6 +89,12 @@ This setup intentionally avoids:
 - ❌ systemd graphical targets
 - ❌ GPU/EGL crashes
 
+## 🧠What do i need for install kde via NIXOS ?
+
+Fresh install NIXOS WSL - NO update needed.
+Install git look in description..
+That all =]
+
 ## ✨ How to install...
 
 git clone https://github.com/vinberg88/wsl-kde6-nixos.git
