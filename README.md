@@ -36,6 +36,16 @@ This setup intentionally avoids:
 - ❌ systemd graphical targets
 - ❌ GPU/EGL crashes
 
+## ✨ How to install...
+
+git clone https://github.com/vinberg88/wsl-kde6-nixos.git
+
+cd wsl-kde6-nixos
+
+sudo nixos-rebuild switch --flake .#nixos
+
+Or look here: 
+
 ---
 
 ## 📦 Repository Structure
@@ -48,19 +58,5 @@ wsl-kde6-nixos/
 ├── scripts/
 │   └── start-kde.sh
 └── README.md
-
----
-
-## How to install...
-
-git clone https://github.com/vinberg88/wsl-kde6-nixos.git
-
-cd wsl-kde6-nixos
-
-sudo nixos-rebuild switch --flake .#nixos
-
-Or look here: 
-
-Regards Mattias Vinberg
 
 
