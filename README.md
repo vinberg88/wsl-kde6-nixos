@@ -1,4 +1,4 @@
-# 🚀 NixOS WSL + KDE Plasma 6 (X11 via X410)
+# 🚀 NixOS + KDE Plasma 6 via WSL and Windows 11. Auto setup!
 
 ![NixOS](https://img.shields.io/badge/NixOS-25.05-blue?logo=nixos)
 ![KDE Plasma](https://img.shields.io/badge/KDE-Plasma%206-1d99f3?logo=kde)
