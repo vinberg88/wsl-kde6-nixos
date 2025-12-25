@@ -41,6 +41,10 @@
     dbus
     xorg.xauth
     xorg.xhost
+
+    pkgs.libreoffice-qt-fresh
+    pkgs.gimp3-with-plugins
+    pkgs.blanket
   ];
 
   users.users.nixos = {
