@@ -11,6 +11,16 @@
 
 You can find NixOS here For WSL HERE - https://github.com/nix-community/NixOS-WSL
 
+INSTALL EASY BY THIS GUIDE.
+
+TEXT
+
+https://github.com/vinberg88/wsl-kde6-nixos/blob/main/NIXOS-KDE6.txt
+
+Video
+
+https://www.youtube.com/watch?v=FQ1C9Sz2Nbg
+
 ---
 
 ## 🔊 Audio Support (WSL) Bonus =)
@@ -190,6 +200,8 @@ https://x.com/MattiasVinberg
 How it all looks when installed. We even have sound! - This is just an example. KDE can look in many ways
 
 <img width="1920" height="1080" alt="NIXOS-KDE6" src="https://github.com/user-attachments/assets/e8b5db38-a225-4d98-99b5-4220f49571f3" />
+
+Regards Mattias Vinberg - NIXOS - KDE 6 - MICROSOFT - LiNUX - Sweden - 2025
 
 ---
 
